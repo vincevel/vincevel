@@ -23,6 +23,6 @@ When not coding, I dive into immersive RPGs and strategy games on my PC. I stay 
 
  
 **Connect with Me 🔗**
-- [Portfolio](https://www.upwork.com/freelancers/your-profile](https://www.vmvcore.com/portfolio))
-- [Upwork](https://www.upwork.com/freelancers/your-profile) (Top-Rated 2021)
+- [Portfolio](https://www.vmvcore.com/portfolio)
+- [Upwork](https://www.upwork.com/freelancers/~01578f6183802b5cd6?mp_source=share) (Top-Rated 2021)
 - Ask me about AWS, DevOps, or full-stack development!
